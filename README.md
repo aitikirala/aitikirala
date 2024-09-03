@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Aarti Itikirala! 👋
 
-<!--
-**aitikirala/aitikirala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science & Statistics At The University Maryland - College Park
 
-Here are some ideas to get you started:
+📍 Arlington, VA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Linkedin](https://linkedin.com/in/aarti-itikirala/) | 📨 [Email](mailto:itikirala.aarti@gmail.com) | 💻 [GitHub](https://github.com/aitikirala) | 🌐 [Personal Website](https://aarti-showcase.vercel.app))
+
+## About Me
+
+I'm a Computer Science student at the University of Maryland, College Park, passionate about developing secure software solutions. I have experience in full-stack development, machine learning, and have worked on a variety of projects ranging from AI-driven applications to web services.
+
+When I'm not coding, you can find me tutoring, focusing on self-care, or exploring new tech trends.
+
+## Recent Projects
+
+- [CampusConnector](https://github.com/aitikirala/campusconnector) - A platform for university students to market and grow their businesses.
+- [Mood Missions](https://github.com/aitikirala/MoodMissions) - A mood-based productivity app.
+
+## Let's Connect! 🌎
+
+Feel free to reach out if you're interested in collaborating on a project, have any questions, or just want to chat!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jasdeep_Ahluwalia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasdeep-ahluwalia/)](https://www.linkedin.com/in/aarti-itikirala/)
+[![GitHub Badge](https://img.shields.io/badge/-ahluwalij-blue?style=flat&logo=GitHub&logoColor=white&link=https://github.com/ahluwalij)](https://github.com/aitikirala)
