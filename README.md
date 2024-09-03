@@ -21,5 +21,5 @@ When I'm not coding, you can find me tutoring, focusing on self-care, or explori
 
 Feel free to reach out if you're interested in collaborating on a project, have any questions, or just want to chat!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jasdeep_Ahluwalia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasdeep-ahluwalia/)](https://www.linkedin.com/in/aarti-itikirala/)
-[![GitHub Badge](https://img.shields.io/badge/-ahluwalij-blue?style=flat&logo=GitHub&logoColor=white&link=https://github.com/ahluwalij)](https://github.com/aitikirala)
+[![Linkedin Badge](https://img.shields.io/badge/-Jasdeep_Ahluwalia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarti-itikirala/)](https://www.linkedin.com/in/aarti-itikirala/)
+[![GitHub Badge](https://img.shields.io/badge/-ahluwalij-blue?style=flat&logo=GitHub&logoColor=white&link=https://github.com/aitikirala)](https://github.com/aitikirala)
