@@ -4,7 +4,9 @@
 
 📍 Arlington, VA
 
-🔗 [Linkedin](https://linkedin.com/in/aarti-itikirala/) | 📨 [Email](mailto:itikirala.aarti@gmail.com) | 💻 [GitHub](https://github.com/aitikirala) | 🌐 [Personal Website](https://aarti-showcase.vercel.app)) | [Instagram](https://www.instagram.com/aarti.i?igsh=MWJubTFrNHZwenpqaQ%3D%3D&utm_source=qr)
+🔗 [Linkedin](https://linkedin.com/in/aarti-itikirala/) | 📨 [Email](mailto:itikirala.aarti@gmail.com) | 💻 [GitHub](https://github.com/aitikirala) | 🌐 [Personal Website](https://aarti-showcase.vercel.app)) | ![image](https://github.com/user-attachments/assets/debd0a89-4633-4b8f-b90b-8a3caa75b882)
+![Uploading image.png…]()
+[Instagram](https://www.instagram.com/aarti.i?igsh=MWJubTFrNHZwenpqaQ%3D%3D&utm_source=qr)
 
 ## About Me
 
