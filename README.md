@@ -17,7 +17,7 @@ When I'm not coding, you can find me tutoring, focusing on self-care, or explori
 - [CampusConnector](https://github.com/aitikirala/campusconnector) - A platform for university students to market and grow their businesses.
 - [Mood Missions](https://github.com/aitikirala/MoodMissions) - A mood-based productivity app.
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitikirala&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitikirala&layout=compact)
 
 
 ## Let's Connect! 🌎
