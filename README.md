@@ -1,6 +1,6 @@
 # Hi there, I'm Aarti Itikirala! 👋
 
-💻 Computer Science & Statistics @ The University Maryland - College Park (Co' 24)
+💻 Computer Science & Statistics @ University of Maryland - College Park (Co' 24)
 
 📍 Arlington, VA
 
