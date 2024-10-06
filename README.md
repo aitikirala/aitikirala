@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Software Engineer @ Accenture, passionate about developing secure software solutions. I have experience in full-stack development, machine learning, and have worked on a variety of projects ranging from AI-driven applications to web services.
+I'm a Software Engineer @ Accenture Federal, passionate about developing secure software solutions. I have experience in full-stack development, machine learning, and have worked on a variety of projects ranging from AI-driven applications to web services.
 
 When I'm not coding, you can find me tutoring, focusing on self-care, or exploring new tech trends.
 
