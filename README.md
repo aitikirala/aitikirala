@@ -15,7 +15,7 @@ When I'm not coding, you can find me tutoring, focusing on self-care, or taking 
 ## Recent Projects
 
 - [CampusConnector](https://github.com/aitikirala/campusconnector) - A platform for university students to market and grow their businesses.
-- [Mood Missions](https://github.com/aitikirala/MoodMissions) - A mood-based productivity app.
+- [My Photo Blog](https://github.com/aitikirala/aitikira-photos) - A mood-based productivity app.
 
 
 ## Let's Connect! 🌎
